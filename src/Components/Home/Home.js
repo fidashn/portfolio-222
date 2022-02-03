@@ -1,13 +1,10 @@
 import React from 'react';
 import Img1 from '../../images/me.jpg';
 import Img2 from '../../images/bg.jpg';
-
-// import Video from '../../videos/video222tr.mp4';
 import {
   HomeContainer,
   HomeBg,
   HomePic,
-  // VideoBg,
   HomeContent,
   HomeH1,
   HomeP,
