@@ -21,7 +21,7 @@ const Home = () => {
       <HomeContent>
         <HomeH1>Hi, I'm Fida</HomeH1>
         <HomeP>
-        I'm starting my journey in fullstack developmen, looking forward to join a company that shares my values, and enables me to fulfill my potential.
+        I'm starting my journey in fullstack development, looking forward to join a company that shares my values, and enables me to fulfill my potential.
         </HomeP>
         <HomePic><img src={Img1} height="280px" alt="me" style={{borderRadius:"50%",  boxShadow: "0.5rem 0.5rem 0.5rem #998050"}}/></HomePic>
       </HomeContent>
