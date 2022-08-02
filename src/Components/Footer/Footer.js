@@ -16,7 +16,7 @@ const Footer = () => {
     <div class='icons'>
       <a href="https://www.facebook.com/profile.php?id=100012226652201"><i class="fab fa-facebook fa-2x" ></i></a>
       <a href="https://github.com/fidashn"><i class="fab fa-github fa-2x"></i></a>
-      <a href=" https://www.linkedin.com/in/fida-awida-shnakher-0b0b4a1b5/"><i class="fab fa-linkedin fa-2x"></i></a>
+      <a href=" https://www.linkedin.com/in/fida-awida-shnakher-0b0b4a1b5"><i class="fab fa-linkedin fa-2x"></i></a>
     </div>
     </div>
     </div>
